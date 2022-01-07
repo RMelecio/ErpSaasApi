@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpSaasApi", "ErpSaasApi\ErpSaasApi.csproj", "{898079FA-08DD-4681-8F13-9166F78DF0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898079FA-08DD-4681-8F13-9166F78DF0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898079FA-08DD-4681-8F13-9166F78DF0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898079FA-08DD-4681-8F13-9166F78DF0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898079FA-08DD-4681-8F13-9166F78DF0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4E61C8-1537-4C51-9B35-CF8E9BE92C98}
+	EndGlobalSection
+EndGlobal
